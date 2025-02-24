@@ -1,8 +1,17 @@
 
-# 🚀 Download Time Calculator ⏳  
+# 🚀 Download Time Calculator ⏳ 
 
-Estimate how long it will take to download a file based on your internet speed! 🎯 Whether you're downloading **games 🎮, movies 🎥, software 💾, or large files 📂**, this tool gives you an instant and accurate estimate.  
+Estimate how long it will take to download a file based on your internet speed! 🎯 Whether you're downloading **games 🎮, movies 🎥, software 💾, or large files 📂**, this tool gives you an instant and accurate estimate. 
 
+> https://Odhiambo08892.github.io/download-time-calculator
+:star: Star me on GitHub — it helps!
+
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Odhiambo08892/Odhiambo08892.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://Odhiambo08892.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/stanley-odhiambo-8ab497292/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+:star: Star me on GitHub — it helps!
 ## ✨ Features  
 ✅ Supports multiple file sizes (MB, GB, TB) 📁  
 ✅ Works with different internet speeds (Mbps, Gbps) 🌎  
