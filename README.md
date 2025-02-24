@@ -55,4 +55,8 @@ Clone the repo and start using it locally:
 git clone https://github.com/Odhiambo08892/download-time-calculator.git
 cd download-time-calculator
 open index.html
- 
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
