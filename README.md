@@ -51,10 +51,6 @@ Estimate how long it will take to download a file based on your internet speed! 
 ## 📩 Get Started Now!  
 Clone the repo and start using it locally:  
 
-```sh
-git clone https://github.com/Odhiambo08892/download-time-calculator.git
-cd download-time-calculator
-open index.html
 
 ## License
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
